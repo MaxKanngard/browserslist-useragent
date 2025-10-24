@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "semver": "^7.3.5",
-    "ua-parser-js": "^1.0.32"
+    "ua-parser-js": "^2.0.6"
   },
   "peerDependencies": {
     "browserslist": "^4.0.0"
@@ -37,7 +37,6 @@
     "@types/jest": "^29.1.2",
     "@types/node": "^18.11.0",
     "@types/semver": "^7.3.12",
-    "@types/ua-parser-js": "^0.7.36",
     "@types/useragent": "^2.3.1",
     "babel-cli": "^6.26.0",
     "browserslist": "^4.19.1",
